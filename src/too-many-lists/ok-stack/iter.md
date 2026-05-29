@@ -1,4 +1,4 @@
-## 迭代器
+# 迭代器
 集合类型可以通过 `Iterator` 特征进行迭代，该特征看起来比 `Drop` 要复杂点：
 ```rust
 pub trait Iterator {
