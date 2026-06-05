@@ -6,19 +6,20 @@
    
 <div align="center">
 
-[![studyrut](https://img.shields.io/badge/RustCn社区-orange)](https://github.com/rustlang-cn) [![Stars Count](https://img.shields.io/github/stars/sunface/rust-course?style=flat)](https://github.com/sunface/rust-course/stargazers)
-[![](https://img.shields.io/github/issues-pr-closed-raw/sunface/rust-course.svg?style=flat)](https://github.com/sunface/rust-course/issues)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ines/spacy-course/master)
+
 
 <!-- <a href="https://www.zhihu.com/column/c_1452781034895446017">
   <img alt="Sunface | 知乎" height="20px" width="20px" src="https://github.com/sunface/rust-course/blob/main/assets/zhihu.jpg">
+  [![studyrut](https://img.shields.io/badge/RustCn社区-orange)](https://github.com/rustlang-cn) [![Stars Count](https://img.shields.io/github/stars/sunface/rust-course?style=flat)](https://github.com/sunface/rust-course/stargazers)
+[![](https://img.shields.io/github/issues-pr-closed-raw/sunface/rust-course.svg?style=flat)](https://github.com/sunface/rust-course/issues)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ines/spacy-course/master)
 </a> -->
 
 </div>
 
-## 教程简介
+<br />
 
-**`Rust语言圣经`**涵盖从**入门到精通**所需的 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。在写作过程中我们始终铭记初心：为中国用户打造一门**全面的、深入的、持续更新的** Rust 教程。 新手用来入门，老手用来提高，高手用来提升生产力。
+为中国用户打造一门最用心的 Rust 教程。，新手用来入门，老手用来提升生产力。
 
 - 在线阅读: https://course.rs
 - AI 前沿学习：https://beatai.org， 每日精选全球好文，实时、高质、有用
@@ -26,6 +27,19 @@
 
 <img width="2452" height="744" alt="1780625980773" src="https://github.com/user-attachments/assets/988797be-c886-45ac-99d6-569fae654dfe" />
 
+
+
+## 创作感悟
+
+Rust 语言圣经已写了 170 余章、110 余万字、历经 800 多个小时，每个章节都是手动写就，没有任何机翻、也没质量上的妥协( 相信深入阅读过的读者都能体会到这一点 )。
+
+曾经有读者问过 "这么好的书为何要开源，而不是出版?"，原因很简单：**只有完全开源才能完美地呈现出我想要的教学效果**。Rust 要在国内真正发展起来，必须得有一些追逐梦想的人在做着不计付出的事情，而我希望能贡献一份微薄之力。
+
+但要说完全无欲无求，emmm，看到项目多了一颗 🌟，好像也非常开心，有什么能比读者大大的赞美更宝贵的:)
+
+你们用指尖绘制星空，那里繁星点点，每一颗都在激励着我们披荆斩棘、不断前行。不夸张的说，没有你们，开源世界就没有星光，自然也不会有今日的开源盛世。
+
+能与大家在茫茫人海中相识，这感觉真好！
 
 ## 🏆 贡献者
 
@@ -90,19 +104,6 @@
     </tbody>
 </table>
 
-## 创作感悟
-
-截至目前，Rust 语言圣经已写了 170 余章，110 余万字，历经 800 多个小时，每一个章节都是手动写就，没有任何机翻和质量上的妥协( 相信深入阅读过的读者都能体会到这一点 )。
-
-曾经有读者问过 "这么好的书为何要开源，而不是出版?"，原因很简单：**只有完全开源才能完美地呈现出我想要的教学效果**。
-
-总之，Rust 要在国内真正发展起来，必须得有一些追逐梦想的人在做着不计付出的事情，而我希望自己能贡献一份微薄之力。
-
-但是要说完全无欲无求，那也是不可能的，看到项目多了一颗 🌟，那感觉...棒极了，因为它代表了读者的认可和称赞。
-
-你们用指尖绘制的星空，那里繁星点点，每一颗都在鼓励着怀揣着开源梦想的程序员披荆斩棘、不断前行，不夸张的说，没有你们，开源世界就没有星光，自然也就不会有今天的开源盛世。
-
-能通过开源在茫茫人海中与大家相识，这感觉真好 :D
 
 ## 开源协议
 
