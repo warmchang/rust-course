@@ -144,7 +144,7 @@ parallel = ["jpeg-decoder/rayon"]
 
 这里，我们使用 `winapi` 为例来说明这个过程。首先，`winapi` 使用了大量的 `features`；然后我们有两个包 `foo` 和 `bar` 分别使用了它的两个 features，那么在合并后，最终 `winapi` 将同时启四个 features :
 
-<img src="https://cdn.jsdelivr.net/gh/beatai-org/beatai-assets@3a5cc0064037656f6e24d122bd5ff1874e991bd4/rust-course/_external/2c8aa746a8276b54.png" />
+<img src="https://pic2.zhimg.com/80/v2-251973b0cc83f35cd6858bf21dd00ed6_1440w.png" />
 
 由于这种不可控性，我们需要让 `启用feature = 添加特性` 这个等式成立，换而言之，**启用一个 feature 不应该导致某个功能被禁止**。这样才能让多个包启用同一个依赖的不同 features。
 
