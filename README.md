@@ -21,7 +21,7 @@
 **`Rust语言圣经`**涵盖从**入门到精通**所需的 Rust 知识，目录及内容都经过深思熟虑的设计，同时语言生动幽默，行文流畅自如，摆脱技术书籍常有的机器味和晦涩感。在写作过程中我们始终铭记初心：为中国用户打造一门**全面的、深入的、持续更新的** Rust 教程。 新手用来入门，老手用来提高，高手用来提升生产力。
 
 - 在线阅读: https://course.rs
-- 配套练习题：https://github.com/sunface/rust-by-practice，像学习一门大学课程一样学习 Rust 是一种什么感觉？_Rust 语言圣经 + Rust 语言实战_ 双剑合璧，给你最极致的学习体验
+- AI 前沿学习：https://beatai.org， 每日精选全球好文，实时、高质、有用
 
 
 <img width="2452" height="744" alt="1780625980773" src="https://github.com/user-attachments/assets/988797be-c886-45ac-99d6-569fae654dfe" />
