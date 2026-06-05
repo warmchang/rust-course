@@ -23,7 +23,7 @@
 
 - 在线阅读: https://course.rs
 - 在线练习：https://practice.course.rs
-- AI 前沿学习：https://beatai.org， 每日精选全球好文，实时、高质、有用
+- AI 前沿学习：https://beatai.org 每日精选全球好文，实时、高质、有用
 
 
 
