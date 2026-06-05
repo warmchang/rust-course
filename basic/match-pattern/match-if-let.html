@@ -36,10 +36,10 @@
             const path_to_root = "../../";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "../../searchindex-2234b257.js";
+            window.path_to_searchindex_js = "../../searchindex-cf3a6879.js";
         </script>
         <!-- Start loading toc.js asap -->
-        <script src="../../toc-a1876e9d.js"></script>
+        <script src="../../toc-2f1f2f2c.js"></script>
     </head>
     <body>
     <div id="mdbook-help-container">
@@ -439,7 +439,7 @@ fn main() {
 fn main() {
     let v = vec![MyEnum::Foo,MyEnum::Bar,MyEnum::Foo];
 }</code></pre>
-<p>现在如果想对 <code>v</code> 进行过滤，只保留类型是 <code>MyEnum::Foo</code> 的元素，你可能想这么写：</p>
+<p>现在如果想对 <code>v</code> 进行过滤，只保留值是 <code>MyEnum::Foo</code> 的元素，你可能想这么写：</p>
 <pre class="playground"><code class="language-rust edition2021"><span class="boring">#![allow(unused)]
 </span><span class="boring">fn main() {
 </span>v.iter().filter(|x| x == MyEnum::Foo);
