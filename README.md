@@ -22,6 +22,7 @@
 为中国用户量身打造、国内最用心的 Rust 教程，新手入门，老手提升生产力。
 
 - 在线阅读: https://course.rs
+- 在线练习：https://practice.course.rs
 - AI 前沿学习：https://beatai.org， 每日精选全球好文，实时、高质、有用
 
 
