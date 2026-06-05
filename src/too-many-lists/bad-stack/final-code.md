@@ -162,7 +162,7 @@ test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured
 
 完美！
 
-<span style="float:left"><img src="https://rust-unofficial.github.io/too-many-lists/img/profbee.gif" /></span>
+<span style="float:left"><img src="https://cdn.jsdelivr.net/gh/beatai-org/beatai-assets@3a5cc0064037656f6e24d122bd5ff1874e991bd4/rust-course/_external/a1851bfc4ac56e08.gif" /></span>
 
 #### 为什么要提前优化？
 

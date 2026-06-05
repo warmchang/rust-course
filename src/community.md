@@ -1,6 +1,6 @@
 # Rust语言中文网
 
-<img src="https://github.com/rustlang-cn/.github/blob/main/assets/cover.jpg?raw=true" />
+<img src="https://cdn.jsdelivr.net/gh/beatai-org/beatai-assets@3a5cc0064037656f6e24d122bd5ff1874e991bd4/rust-course/_external/55e1a1cba8d8a04d.jpg" />
 
 <h4 align="center">跟我来吧，学完 Rust，你的前面就是星辰大海！</h4>
 
@@ -8,12 +8,12 @@
 这个社区与其它 Rust 社区有点不一样: 我们聚焦于 Rust 语言的学习研究和实战应用上，不搞花活！
 
 - RustCn 微信交流群
-<img src="https://github.com/sunface/rust-course/assets/7036754/a84ec7e5-30b1-48da-9352-95503aa61a8f" width="200" />
+<img src="https://cdn.jsdelivr.net/gh/beatai-org/beatai-assets@3a5cc0064037656f6e24d122bd5ff1874e991bd4/rust-course/_external/649e469b687d57d1.png" width="200" />
 
 
 - 公众号: `Rust语言中文网`
 
-<img src="https://github.com/sunface/rust-course/blob/main/assets/studyrust公众号.png?raw=true" />
+<img src="https://cdn.jsdelivr.net/gh/beatai-org/beatai-assets@3a5cc0064037656f6e24d122bd5ff1874e991bd4/rust-course/_external/b6018957d8b9912a.png" />
 
 
 <h1 align="center">Rusty Book( 锈书 )</h1>
