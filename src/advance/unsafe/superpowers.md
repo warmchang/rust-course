@@ -28,7 +28,7 @@ let r1 = &num as *const i32;
 let r2 = &mut num as *mut i32;
 ```
 
-`as` 可以用于强制类型转换，在[之前章节](https://course.rs/basic/converse.html)中有讲解。在这里，我们将引用 `&num / &mut num` 强转为相应的裸指针 `*const i32 / *mut i32`。
+`as` 可以用于强制类型转换，在[之前章节](https://course.rs/advance/into-types/converse.html)中有讲解。在这里，我们将引用 `&num / &mut num` 强转为相应的裸指针 `*const i32 / *mut i32`。
 
 细心的同学可能会发现，在这段代码中并没有 `unsafe` 的身影，原因在于：**创建裸指针是安全的行为，而解引用裸指针才是不安全的行为** :
 

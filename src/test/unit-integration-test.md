@@ -92,7 +92,7 @@ fn it_adds_two() {
 
 这段测试代码是对之前**私有函数**中的示例进行测试，该示例代码在 `src/lib.rs` 中。
 
-首先与单元测试有所不同，我们并没有创建测试模块。其次，`tests` 目录下的每个文件都是一个单独的包，我们需要将待测试的包引入到当前包的作用域后: `use adder`，才能进行测试 。大家应该还记得[包和模块章节](https://course.rs/advance/crate-module/crate.html)中讲过的内容吧？在创建项目后，`src/lib.rs` 自动创建一个与项目同名的 `lib` 类型的包，由于我们的项目名是 `adder`，因此包名也是 `adder`。
+首先与单元测试有所不同，我们并没有创建测试模块。其次，`tests` 目录下的每个文件都是一个单独的包，我们需要将待测试的包引入到当前包的作用域后: `use adder`，才能进行测试 。大家应该还记得[包和模块章节](https://course.rs/basic/crate-module/crate.html)中讲过的内容吧？在创建项目后，`src/lib.rs` 自动创建一个与项目同名的 `lib` 类型的包，由于我们的项目名是 `adder`，因此包名也是 `adder`。
 
 因为 `tests` 目录本身就说明了它的特殊用途，因此我们无需再使用 `#[cfg(test)]` 来取悦 Cargo。后者会在运行 `cargo test` 时，对 `tests` 目录中的每个文件都进行编译运行。
 

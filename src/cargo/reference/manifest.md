@@ -2,7 +2,7 @@
 
 `Cargo.toml` 又被称为清单( `manifest` )，文件格式是 `TOML`，每一个清单文件都由以下部分组成：
 
-- [`cargo-features`](unstable.md) — 只能用于 `nightly`版本的 `feature`
+- [`cargo-features`](https://doc.rust-lang.org/cargo/reference/unstable.html) — 只能用于 `nightly`版本的 `feature`
 - [`[package]`](#package) — 定义项目( `package` )的元信息
   - [`name`](#name) — 名称
   - [`version`](#version) — 版本
@@ -30,7 +30,7 @@
   - [`autoexamples`](https://course.rs/cargo/reference/cargo-target.html#对象自动发现) — 禁止示例文件的自动发现
   - [`autotests`](https://course.rs/cargo/reference/cargo-target.html#对象自动发现) — 禁止测试文件的自动发现
   - [`autobenches`](https://course.rs/cargo/reference/cargo-target.html#对象自动发现) — 禁止 bench 文件的自动发现
-  - [`resolver`](resolver.md#resolver-versions) — 设置依赖解析器( dependency resolver)
+  - [`resolver`](https://doc.rust-lang.org/cargo/reference/resolver.html#resolver-versions) — 设置依赖解析器( dependency resolver)
 - Cargo Target 列表: (查看 [Target 配置](https://course.rs/cargo/reference/cargo-target.html#Target配置) 获取详细设置)
   - [`[lib]`](https://course.rs/cargo/reference/cargo-target.html#库对象library) — Library target 设置.
   - [`[[bin]]`](https://course.rs/cargo/reference/cargo-target.html#二进制对象binaries) — Binary target 设置.

@@ -2,7 +2,7 @@
 
 本文将彻底解决一个困扰广大 Rust 用户已久的常见错误：因为在函数内外同时借用一个引用，导致了重复借用错误`cannot borrow *self as mutable because it is also borrowed as immutable`.
 
-> 本文大部分内容节选自[Rust 常见陷阱](https://course.rs/pitfalls/index.html)专题，由于借用是新手绕不过去的坎，因此将其提取出来形成一个新的系列
+> 本文大部分内容节选自[Rust 常见陷阱](https://course.rs/compiler/pitfalls/index.html)专题，由于借用是新手绕不过去的坎，因此将其提取出来形成一个新的系列
 
 ## 正确的代码
 
