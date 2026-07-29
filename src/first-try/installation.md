@@ -70,7 +70,7 @@ Windows 上安装 Rust 需要有 `C++` 环境，以下为安装的两种方式�
 
 准备好 C++ 环境后开始安装 Rust：
 
-在 [RUSTUP-INIT](https://www.rust-lang.org/learn/get-started) 下载系统相对应的 Rust 安装程序，一路默认即可。
+在 [RUSTUP-INIT](https://rust-lang.org/zh-CN/learn/get-started/) 下载系统相对应的 Rust 安装程序，一路默认即可。
 
 ```shell
 PS C:\Users\Hehongyuan> rustup-init.exe
