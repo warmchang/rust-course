@@ -91,6 +91,10 @@ Current installation options:
 
 相比于 MSVC 版本来说，GNU 版本具有更轻量，更靠近 Linux 的优势。
 
+以下方案二选一：
+
+- MSYS2
+
 首先，根据 [MSYS2 官网](https://www.msys2.org/) 配置 MSYS。
 
 若您觉得下载太慢，可以试试由 [Caviar-X](https://github.com/Caviar-X) 提供的 [代理](https://github.pigeons.icu/msys2/msys2-installer/releases/download/2021-11-30/msys2-x86_64-20211130.exe)。
@@ -102,6 +106,14 @@ Current installation options:
 ```bash
 $ curl https://sh.rustup.rs -sSf | sh
 ```
+
+- Mingw64
+
+首先，前往此链接下载 [系统相对应的 w64devkit](https://github.com/skeeto/w64devkit/releases) 并安装。
+
+在安装 `w64devkit` 后，请将 `%w64devkit 安装路径%\bin` 添加到系统变量 `PATH` 中。
+
+配置好后，在 [RUSTUP-INIT](https://rust-lang.org/zh-CN/learn/get-started/) 下载系统相对应的 Rust 安装程序
 
 之后，根据以下输出进行配置。
 
